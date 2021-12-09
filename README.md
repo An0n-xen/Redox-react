@@ -7,5 +7,5 @@ Chemify
 # Installaton
 pip install -r requirements.txt
 
-Or 
+# Or 
 pip install chemify
